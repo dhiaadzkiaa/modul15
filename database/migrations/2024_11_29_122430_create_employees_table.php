@@ -20,6 +20,7 @@ return new class extends Migration
             $table->foreignId('position_id')->constrained();
             $table->timestamps();
             });
+            
     }
 
     /**
