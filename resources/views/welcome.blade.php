@@ -13,8 +13,8 @@
     <div class="container text-center my-5">
         <h1 class="mb-4">Belajar Controller & View pada Laravel</h1>
         {{-- Contoh cara mereferensikan gambar di dalam file blade dengan menggunakan pendekatan Vite --}}
-        <img class="img-thumbnail" src="https://www.gambaranimasi.org/data/media/209/animasi-bergerak-kucing-0251.gif"
-            width="300" alt="image">
+        <img class="img-thumbnail" src="https://cdn.shortpixel.ai/spai/q_lossy+ret_img+to_webp/freecoloringadventure.com/wp-content/uploads/2023/12/Shiba-Inu-Puppy-Coloring-Page.png"
+            width="200" alt="image">
 
         <div class="col-md-2 offset-md-5 mt-4">
             <div class="d-grid gap-2">

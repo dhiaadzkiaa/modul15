@@ -5,7 +5,7 @@
         <div
             style="height: 60%; padding: 20px; background-color: white; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); text-align: center;">
             <div>
-                <img src="https://pngimg.com/uploads/porsche_logo/porsche_logo_PNG1.png" width="80" alt="Logo"
+                <img src="https://th.bing.com/th/id/OIP.Y7GhmYQKqIbnNmFhOGDKFgHaHa?w=197&h=197&c=7&r=0&o=5&dpr=1.3&pid=1.7" width="80" alt="Logo"
                     style="margin-bottom: 20px;">
             </div>
             <h3 style="margin-bottom: 20px; color: #333;">Employee Data Master</h3>
